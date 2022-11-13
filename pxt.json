@@ -1,5 +1,5 @@
 {
-    "name": "blow-away",
+    "name": "Crashy Bird",
     "dependencies": {
         "core": "*",
         "radio": "*",
